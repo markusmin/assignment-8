@@ -1,0 +1,44 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Markus Min<br>mmin@uw.edu"
+date: "3/12/2021"
+output: ioslides_presentation
+---
+
+# Introduction
+
+## About me | Personal
+
+- I grew up in California
+- My favorite food is sushi
+- My favorite animal is the bison
+
+## About me | Academic
+
+- UCLA
+- B.S. Marine Biology
+
+## About me | Things I've missed during the pandemic
+1) Seeing my friends
+2) Playing sports
+3) Going out to eat
+
+# Data science
+
+## Course topics | 3 things I enjoyed learning about
+1) Version control with GitHub/integrating GitHub and RStudio
+2) How to make cool presentations in R Markdown just like Mark
+3) How to make a website with R Markdown
+
+## Course topics | 3 things I'd like to learn more about
+1) Best practices for annotating code
+2) How to make your code more efficient/shorter
+3) How to Google things to get the help you need
+
+## {data-background=img/IMG_9316.png data-background-size=cover}
+
+
+
+
+
